@@ -1,0 +1,14 @@
+E:\Programming\laba4\zad1\obj\Debug\netcoreapp3.1\zad1.csproj.AssemblyReference.cache
+E:\Programming\laba4\zad1\obj\Debug\netcoreapp3.1\zad1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\laba4\zad1\obj\Debug\netcoreapp3.1\zad1.AssemblyInfoInputs.cache
+E:\Programming\laba4\zad1\obj\Debug\netcoreapp3.1\zad1.AssemblyInfo.cs
+E:\Programming\laba4\zad1\obj\Debug\netcoreapp3.1\zad1.csproj.CoreCompileInputs.cache
+E:\Programming\laba4\zad1\bin\Debug\netcoreapp3.1\zad1.exe
+E:\Programming\laba4\zad1\bin\Debug\netcoreapp3.1\zad1.deps.json
+E:\Programming\laba4\zad1\bin\Debug\netcoreapp3.1\zad1.runtimeconfig.json
+E:\Programming\laba4\zad1\bin\Debug\netcoreapp3.1\zad1.runtimeconfig.dev.json
+E:\Programming\laba4\zad1\bin\Debug\netcoreapp3.1\zad1.dll
+E:\Programming\laba4\zad1\bin\Debug\netcoreapp3.1\zad1.pdb
+E:\Programming\laba4\zad1\obj\Debug\netcoreapp3.1\zad1.dll
+E:\Programming\laba4\zad1\obj\Debug\netcoreapp3.1\zad1.pdb
+E:\Programming\laba4\zad1\obj\Debug\netcoreapp3.1\zad1.genruntimeconfig.cache

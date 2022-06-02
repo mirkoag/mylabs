@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xib/6ysJlz3QrmQzSfPqKgW8wLk/2ItiOyoCzXYCSOisS4VRo3TzYX1JEd4roAS/AZqbOSqNwLSZOmZe5hWU4w==",
+  "success": true,
+  "projectFilePath": "E:\\Programming\\laba4\\zad1\\zad1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Стрелец\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}
