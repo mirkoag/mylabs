@@ -1,0 +1,14 @@
+E:\Programming\laba4\zadanije\bin\Debug\netcoreapp3.1\zadanije.exe
+E:\Programming\laba4\zadanije\bin\Debug\netcoreapp3.1\zadanije.deps.json
+E:\Programming\laba4\zadanije\bin\Debug\netcoreapp3.1\zadanije.runtimeconfig.json
+E:\Programming\laba4\zadanije\bin\Debug\netcoreapp3.1\zadanije.runtimeconfig.dev.json
+E:\Programming\laba4\zadanije\bin\Debug\netcoreapp3.1\zadanije.dll
+E:\Programming\laba4\zadanije\bin\Debug\netcoreapp3.1\zadanije.pdb
+E:\Programming\laba4\zadanije\obj\Debug\netcoreapp3.1\zadanije.csproj.AssemblyReference.cache
+E:\Programming\laba4\zadanije\obj\Debug\netcoreapp3.1\zadanije.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\laba4\zadanije\obj\Debug\netcoreapp3.1\zadanije.AssemblyInfoInputs.cache
+E:\Programming\laba4\zadanije\obj\Debug\netcoreapp3.1\zadanije.AssemblyInfo.cs
+E:\Programming\laba4\zadanije\obj\Debug\netcoreapp3.1\zadanije.csproj.CoreCompileInputs.cache
+E:\Programming\laba4\zadanije\obj\Debug\netcoreapp3.1\zadanije.dll
+E:\Programming\laba4\zadanije\obj\Debug\netcoreapp3.1\zadanije.pdb
+E:\Programming\laba4\zadanije\obj\Debug\netcoreapp3.1\zadanije.genruntimeconfig.cache
